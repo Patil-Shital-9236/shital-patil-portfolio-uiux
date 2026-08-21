@@ -17,7 +17,11 @@ A comprehensive UI/UX case study and design specification for the personal portf
 
 ## High-Res Design Overview
 
-![Shital Patil Portfolio Full Design](assets/images/shital_portfolio_full.png)
+<div align="center">
+  <img src="assets/images/shital_portfolio_full.png" alt="Shital Patil Portfolio Full Design" width="100%" />
+  <br/>
+  <i>Full-length showcase of the luxury dark-mode portfolio design</i>
+</div>
 
 ---
 
