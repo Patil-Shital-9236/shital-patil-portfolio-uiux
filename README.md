@@ -1,6 +1,6 @@
 # 👑 Shital Patil — Personal Portfolio UI/UX Design Case Study
 
-[![Figma Prototype](https://img.shields.io/badge/Figma-Interactive%20Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/NioH69BT4n9KyMAZ1kRaEN/EMS?node-id=1136-5359&viewport=678%2C853%2C0.03&t=kzkxDRFE4y5s3P0p-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1149%3A534&page-id=153%3A2)
+[![Figma Prototype](https://img.shields.io/badge/Figma-Interactive%20Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/NioH69BT4n9KyMAZ1kRaEN/EMS?node-id=1309-39&t=Keo8zRZIwCVzZqIC-0&scaling=scale-down&content-scaling=fixed&page-id=153%3A2&starting-point-node-id=1309%3A39&show-proto-sidebar=1)
 [![Live Vercel Site](https://img.shields.io/badge/Live%20Website-Vercel%20Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shitalpatil-portfolio.vercel.app/)
 [![GitHub Pages](https://img.shields.io/badge/Live%20Showcase-GitHub%20Pages-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://patil-shital-9236.github.io/shital-patil-portfolio-uiux/)
 
@@ -12,7 +12,7 @@
 ## 🌐 Live Demos & Prototype Links
 
 * ⚡ **Live Deployed Portfolio:** [shitalpatil-portfolio.vercel.app](https://shitalpatil-portfolio.vercel.app/)
-* 🎨 **Figma Interactive Prototype:** [View Prototype Frame on Figma](https://www.figma.com/proto/NioH69BT4n9KyMAZ1kRaEN/EMS?node-id=1136-5359&viewport=678%2C853%2C0.03&t=kzkxDRFE4y5s3P0p-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1149%3A534&page-id=153%3A2)
+* 🎨 **Figma Interactive Prototype:** [View Prototype Frame (1309:39) on Figma](https://www.figma.com/proto/NioH69BT4n9KyMAZ1kRaEN/EMS?node-id=1309-39&t=Keo8zRZIwCVzZqIC-0&scaling=scale-down&content-scaling=fixed&page-id=153%3A2&starting-point-node-id=1309%3A39&show-proto-sidebar=1)
 
 ---
 
@@ -64,29 +64,10 @@
 
 ---
 
-## 🚀 How to Push to GitHub
-
-Run these commands in PowerShell or Terminal to upload this project to your GitHub account:
-
-### Step 1: Create Repository on GitHub
-Create a new public repository named `shital-patil-portfolio-uiux` on **[github.com/new](https://github.com/new)**.
-
-### Step 2: Push Local Repository
-```bash
-# Navigate to project folder
-cd "C:\Users\kailash patil\.gemini\antigravity-ide\scratch\shital-patil-portfolio-uiux"
-
-# Push to GitHub
-git branch -M main
-git remote add origin https://github.com/Patil-Shital-9236/shital-patil-portfolio-uiux.git
-git push -u origin main
-```
-
----
-
 ## 👤 Designer & Developer
 
 **Shital Patil**  
 *Backend Developer & UI/UX Designer*  
 * 🌐 Live Site: [shitalpatil-portfolio.vercel.app](https://shitalpatil-portfolio.vercel.app/)  
-* 🐙 GitHub: [@Patil-Shital-9236](https://github.com/Patil-Shital-9236)
+* 🐙 GitHub: [@Patil-Shital-9236](https://github.com/Patil-Shital-9236)  
+* 🎨 Figma Prototype: [View Node 1309:39 Prototype](https://www.figma.com/proto/NioH69BT4n9KyMAZ1kRaEN/EMS?node-id=1309-39&t=Keo8zRZIwCVzZqIC-0&scaling=scale-down&content-scaling=fixed&page-id=153%3A2&starting-point-node-id=1309%3A39&show-proto-sidebar=1)
