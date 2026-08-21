@@ -29,31 +29,43 @@ The objective of this design architecture is to construct a high-impact, dark-mo
 
 ## Section Breakdown
 
-### 1. Hero Experience — "I Build Digital Experiences"
+### 1. I Build Digital Experiences
 - **Objective:** Immediate brand positioning establishing dual mastery in software engineering and UI/UX design.
 - **Key Elements:** High-resolution portrait layout, bold typography, direct links to live deployments and documentation.
 
-### 2. Philosophy — "I Don't Just Write Code. I Build What's Next."
+### 2. I Don't Just Write Code. I Build What's Next.
 - **Objective:** Narrative section bridging backend system architecture with user-centric product engineering.
 - **Key Metrics:** Quantitative highlights demonstrating completed projects, codebase metrics, and design systems.
 
-### 3. Featured Engineering, Prototypes & Systems
+### 3. Featured Engineering. Prototypes & Systems.
 - **Objective:** Structured showcase of production applications and interactive design prototypes.
 - **Featured Systems:**
   - AI Based Resume Analyzer (Full Stack Next.js & Node.js Application)
-  - Gourmet Burger Store UI/UX Experience
-  - Enterprise Management Systems (EMS)
+  - Burger Store - Smart Food Ordering System
+  - Enterprise Management System (EMS)
 
-### 4. Architectural Mastery & Precision Applied
-- **Objective:** Highlights backend microservices, database optimizations, API integrations, and system scalability patterns.
+### 4. Architectural Mastery. Precision Applied.
+- **Objective:** Highlights core technical competencies across different domains.
+- **Core Areas:**
+  - Backend API Development
+  - Database Management
+  - UI / UX Design
 
-### 5. Experience & Milestones
+### 5. Experience & Milestones.
 - **Objective:** Chronological timeline documenting engineering roles, academic milestones, and project deliveries.
+- **Timeline Highlights:**
+  - 2026: UI/UX Designer (Freelance)
+  - 2025: Backend Developer (Internship)
+  - 2024: Bachelor of Engineering
 
-### 6. Certificates & Verified Credentials
+### 6. Certificates & Verified Credentials.
 - **Objective:** Verification grid presenting accredited certifications and industry credentials.
+- **Key Credentials:**
+  - Google IT Automation
+  - Java (Basic) Certificate
+  - UI / UX Design Certificate
 
-### 7. Contact & Collaboration
+### 7. Let's Build Something Great
 - **Objective:** Streamlined inquiry submission form and professional channels (GitHub, LinkedIn, Email).
 
 ---
